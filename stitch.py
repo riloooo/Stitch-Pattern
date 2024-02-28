@@ -200,5 +200,5 @@ for x in range(size):
             image.putpixel((x, y), (0, 0, 0))
 
 ##image = image.resize((size * 5, size * 5))
-image.save('C:\\Users\\riley\\Pictures\\stitch.png')
+image.save('')
 image.show()
